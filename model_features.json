@@ -1,0 +1,25 @@
+{
+    "dt_feats": [
+        "person_income",
+        "loan_grade",
+        "loan_percent_income",
+        "person_home_ownership_RENT",
+        "loan_intent_EDUCATION",
+        "loan_intent_HOMEIMPROVEMENT",
+        "loan_intent_PERSONAL",
+        "loan_intent_VENTURE",
+        "income_emp_length_product"
+    ],
+    "rf_feats": [
+        "person_income",
+        "loan_grade",
+        "person_home_ownership_RENT",
+        "interest_income_ratio"
+    ],
+    "xgb_feats": [
+        "person_income",
+        "loan_grade",
+        "person_home_ownership_RENT",
+        "interest_income_ratio"
+    ]
+}
